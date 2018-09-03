@@ -1,3 +1,11 @@
+/*
+	------------------------- 
+		Password Generator 
+	Create by: Andrick Santos 
+https://andricksantos.github.io/ 
+	------------------------- 
+*/
+
 (function(){
 	/* ----------------------------- */
 	/* Variables y Objetos Generales */
