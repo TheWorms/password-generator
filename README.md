@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="200px;" src="img/password-generator.png" alt="Password Generator>
+<img width="200px;" src="img/password-generator.png" alt="Password Generator">       
 </div>
 
 ---
