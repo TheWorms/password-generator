@@ -8,11 +8,11 @@
 ---
 ##  Password generator made with:
 -   HTML5
-    - [index.html](https://github.com/andricksantos/password-generator/index.html)
+    - [index.html](https://github.com/andricksantos/password-generator/blob/master/index.html)
 -   CSS3 
-    - [styles.css](https://github.com/andricksantos/password-generator/css/styles.css)
+    - [styles.css](https://github.com/andricksantos/password-generator/blob/master/css/estilos.css)
 -   JAVASCRIPT
-    - [app.js](https://github.com/andricksantos/password-generator/js/app.js)
+    - [app.js](https://github.com/andricksantos/password-generator/tree/master/js)
 ---
 ##  Resources
 -   [Awesome Web Developer](https://andricksantos.github.io/awesome-web-development/ (A curated list of impressive framework, libraries, software and resources for your project on web development.))    
