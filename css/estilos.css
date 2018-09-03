@@ -62,7 +62,7 @@ a:hover {
 
 /* Estilos de Filas y Columnas */
 .app .fila {
-	margin-bottom: 29px;
+	margin-bottom: 19px;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
