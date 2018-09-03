@@ -1,10 +1,10 @@
-<div style="margin: 0 auto; width:400px">
+<div style="margin: 0 auto; width:200px">
     <img src="img/password-generator.png">
 </div>
 
 ---
-##  Que es y para que se usa
--   _Una pagina web hecha para generar contraseñas de manera automatica y muy segura para que las puedas utilizar en cualquier plataforma web,solo seleciona las [Preguntas previo a la generecion de contraseña](#Questions-prior-to-the-generation-of-the-password!) y listo tendras una contraseña segura._
+##  What is it and what is it used for?
+-   _A web page made to generate passwords in an automatic and very secure way so that you can use them in any web platform, only select the [Questions prior to the generation of the password!](#Questions-prior-to-the-generation-of-the-password!) and you will have a secure password._
 ---
 ##  Password generator made with:
 -   HTML5
